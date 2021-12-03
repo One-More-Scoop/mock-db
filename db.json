@@ -1,7 +1,8 @@
 {
   flavors: [
     {
-      name: Cookie Dough
+      name: "Cookie Dough",
+      description: "delicous"
     },
   ]
 }

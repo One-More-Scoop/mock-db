@@ -42,7 +42,42 @@
       {
         "name": "Tropical Mango Sorbet",
         "description": "Just like our Tropical Mango ice cream, just in a sorbet!",
-        "price": 40.00
+        "price": 40.00,
+        "image": ""
+      }
+    ],
+    "dairyFree": [
+      {
+        "name": "DF Chocolate Fudge",
+        "description": "Dairy-Free chocolate created from an oat base.",
+        "price": 50.00,
+        "image": ""
+      },
+      {
+        "name": "DF Mint Chocolate Chip",
+        "description": "Dairy-Free, oat base. Mint Flavored ice cream with vegan chocolate chips. A perfect dairy free option for the holidays!",
+        "price": 50.00,
+        "image": ""
+      },
+      {
+        "name": "DF Wild Strawberry",
+        "description": "Dairy-Free, oat base. All-natural strawberry flavor with fresh strawberries.",
+        "price": 50.00,
+        "image": ""
+      }
+    ],
+    "iceCreamSupplies": [
+      {
+        "name": "6oz Cups",
+        "description": "1000/case Smaller cup, pictured on the right.",
+        "price": 108.99,
+        "image": ""
+      },
+      {
+        "name": "Waffle Cone Mix",
+        "description": "5lb bags, 6 per case.",
+        "price": 51.19,
+        "image": ""
       }
     ]
   }

@@ -1,9 +1,49 @@
 {
   "flavors": {
-    {
-      "id": 1,
-      "name": "Cookie Dough",
-      "description": "delicous"
-    },
+    "homemadeIceCream": [
+      {
+        "name": "Banana",
+        "description": "All-natural, banana flavored ice cream.",
+        "price": 40.00,
+        "image": ""
+      },
+      {
+        "name": "Chocolate Chip Cookie Dough",
+        "description": "Vanilla based ice cream, large cookie dough chunks, and hint of butter flavor. Fresh out of the oven!",
+        "price": 45.00,
+        "image": ""
+      },
+      {
+        "name": "Lavender Honey",
+        "description": "Subtle lavender flavor with a swirl of all-natural honey.",
+        "price": 45.00,
+        "image": ""
+      },
+      {
+        "name": "Peanut Butter Cup ",
+        "description": "All-natural peanut butter flavored ice cream with crushed Reese's in every bite.",
+        "price": 45.00,
+        "image": ""
+      }
+    ],
+    "sorbetsAndIces": [
+      {
+        "name": "Blue Raspberry Sorbet",
+        "description": "Water based sorbet, tart raspberry complex.",
+        "price": 45.00,
+        "image": ""
+      },
+      {
+        "name": "Triple Berry Sorbet",
+        "description": "",
+        "price": 40.00,
+        "image": ""
+      },
+      {
+        "name": "Tropical Mango Sorbet",
+        "description": "Just like our Tropical Mango ice cream, just in a sorbet!",
+        "price": 40.00
+      }
+    ]
   }
 }

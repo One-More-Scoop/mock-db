@@ -39,13 +39,14 @@
         "image": ""
       },
       {
+        "id": 2,
         "name": "Triple Berry Sorbet",
         "description": "",
         "price": 40.00,
         "image": ""
       },
       {
-        "id": 2,
+        "id": 3,
         "name": "Tropical Mango Sorbet",
         "description": "Just like our Tropical Mango ice cream, just in a sorbet!",
         "price": 40.00,
@@ -61,7 +62,7 @@
         "image": ""
       },
       {
-        "id": 3,
+        "id": 2,
         "name": "DF Mint Chocolate Chip",
         "description": "Dairy-Free, oat base. Mint Flavored ice cream with vegan chocolate chips. A perfect dairy free option for the holidays!",
         "price": 50.00,
